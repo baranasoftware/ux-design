@@ -22,6 +22,39 @@ Following steps describe the approach we take when designing a new user interfac
     * Are there certain user problems or pain points that we need to empathize with ?
     * Are there any characteristics of users we want to interview ? Why ?
     * How much information should we have to ensure we get a comprehensive and balanced set of data?
+  * Once we identified users to interview, we can start the process with an email to users:
+    ```
+    Hi [Participant Name],
+    
+     We are currently working on a project to provide [the capabilities] where we need to conduct interviews about [project].
+    
+    Your participation in the research study would be very valuable to help us [summary of project goals]. Details of the 
+    study are shared below. 
+    
+    Location: [Address and link to map]
+    Study dates: [Date range]
+    Time: [Time range]
+    Session length: [Estimated length of the time for each interview]
+    
+    If meeting in person will not work for you, let me know I can set up a virtual meeting.
+    
+    With your permission, we will record each interview to help us decide how to improve our product. Recordings only be
+    shared with project team members for the scope of this project. A consent form is attached to this email that you need 
+    sign and send back.
+    
+    If you have any questions, please contact me through email at contact@baranasoftware.com.
+    
+    If you are interested in being interviewed, please let me know when you are available between [date range] and the hours
+    of [time range of study].  
+    
+    Sincerely,
+    ```
+* Prepare for the interview:
+  * Identify goals.
+  * Prepare interview questions and script them.
+  * Collect supplies - notebooks, pen, recording devices.
+  * Backup plan - if things doesn't go as planned how to follow up and get our questions answered.
+  * Precise interview questions, how to record them.
 * 
 
 ## Case Studies
