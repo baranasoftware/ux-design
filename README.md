@@ -55,6 +55,13 @@ Following steps describe the approach we take when designing a new user interfac
   * Collect supplies - notebooks, pen, recording devices.
   * Backup plan - if things doesn't go as planned how to follow up and get our questions answered.
   * Precise interview questions, how to record them.
+* During the interview:
+  * Help participants feel comfortable during the interview process.
+  * Ask open-ended questions.
+  * Take notes and document observations during the interview.
+  * Record the interview.
+  * At the end of the interview thanks the participant.
+* With user interviews are done next step would be to build an empathy map.
 * 
 
 ## Case Studies
