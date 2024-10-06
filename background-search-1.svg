@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.1802903"
-     inkscape:cx="518.09289"
-     inkscape:cy="227.91004"
+     inkscape:cx="429.97896"
+     inkscape:cy="358.38641"
      inkscape:window-width="1528"
      inkscape:window-height="1639"
-     inkscape:window-x="1484"
+     inkscape:window-x="1480"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -98,7 +98,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text17"
-       style="fill:#c0e3f7;font-size:16px;-inkscape-font-specification:Arial;font-family:Arial;fill-opacity:1;stroke-width:1.58362205;stroke-dasharray:none;stroke:#000080;stroke-opacity:1;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect18)" />
+       style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect18);display:inline;fill:#c0e3f7;fill-opacity:1;stroke:#000080;stroke-width:1.58362;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#c0e3f7;fill-opacity:1;stroke:#000080;stroke-width:0.418999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -110,12 +110,38 @@
          style="stroke-width:0.419"
          x="67.331413"
          y="112.97983" /></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:0.418999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 44.1611,41.471084 C 46.987324,81.434659 13.651474,73.552851 15.019257,95.719744"
-       id="path27"
-       sodipodi:nodetypes="cc"
-       inkscape:path-effect="#path-effect27"
-       inkscape:original-d="M 44.1611,41.471084 C 46.987324,81.434659 13.651474,73.552851 15.019257,95.719744" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;fill:#b817a2;fill-opacity:1;stroke-width:0.865;stroke-dasharray:none"
+       x="47.523621"
+       y="18.605946"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:3.88056px;fill:#b817a2;fill-opacity:1;stroke-width:0.865;stroke-dasharray:none"
+         x="47.523621"
+         y="18.605946">Get Started With a Background Search - Results in Mintues!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;fill:#b817a2;fill-opacity:1;stroke-width:0.865;stroke-dasharray:none"
+       x="22.865137"
+       y="25.779322"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.865"
+         x="22.865137"
+         y="25.779322" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;fill:#fc4fe4;fill-opacity:1;stroke-width:0.865;stroke-dasharray:none"
+       x="15.91593"
+       y="38.108562"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.865;fill:#fc4fe4;fill-opacity:1;font-size:6.35px"
+         x="15.91593"
+         y="38.108562">Run this background check on</tspan></text>
   </g>
 </svg>
