@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="background-search-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1802903"
+     inkscape:cx="518.09289"
+     inkscape:cy="227.91004"
+     inkscape:window-width="1528"
+     inkscape:window-height="1639"
+     inkscape:window-x="1484"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect27"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="148.80664"
+       y="409.75742"
+       width="285.75189"
+       height="51.758833"
+       id="rect18" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text17"
+       style="fill:#c0e3f7;font-size:16px;-inkscape-font-specification:Arial;font-family:Arial;fill-opacity:1;stroke-width:1.58362205;stroke-dasharray:none;stroke:#000080;stroke-opacity:1;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect18)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#c0e3f7;fill-opacity:1;stroke:#000080;stroke-width:0.418999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="67.331413"
+       y="112.97983"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:0.419"
+         x="67.331413"
+         y="112.97983" /></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:0.418999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 44.1611,41.471084 C 46.987324,81.434659 13.651474,73.552851 15.019257,95.719744"
+       id="path27"
+       sodipodi:nodetypes="cc"
+       inkscape:path-effect="#path-effect27"
+       inkscape:original-d="M 44.1611,41.471084 C 46.987324,81.434659 13.651474,73.552851 15.019257,95.719744" />
+  </g>
+</svg>
