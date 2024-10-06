@@ -62,6 +62,14 @@ Following steps describe the approach we take when designing a new user interfac
   * Record the interview.
   * At the end of the interview thanks the participant.
 * With user interviews are done next step would be to build an empathy map.
+  * Empathy map is an easily-understood chart that explains everything designers have learned about a type of user.
+  * An empathy map is consist of Says, Does, Thinks and Feel.
+  * With empathy map we can identify user pain points. There are 4 types of pain points:
+    * Financial 
+    * Product 
+    * Process
+    * Support
+* Next step is to identify personas. Based on the research we can then build personas of who our users are.
 * 
 
 ## Case Studies
