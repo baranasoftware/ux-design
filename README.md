@@ -4,13 +4,16 @@ Contains UX designs for a few application.
 Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in app design and implementation effort.
 
 ## Case Studies
+* [Staff Directory](https://docs.google.com/presentation/d/1K4TqhtqSdCcz-32t22j-i9l5QcqRjyuex1ykxKkRFFg/edit?usp=sharing)
+  * Design prompt - Design a responsive website that allows workers to lookup co-workers across the organization.
 * [Background Search Case Study](https://docs.google.com/presentation/d/1wAohU6DRIVGPL5LaEEunfqJrS3oBZ0QqPZdL44qd168/edit?usp=sharing)
   * Design prompt - Design a responsive website that allows users to search for background information and print the result.
+* [Travel and Tour Agency App Case Study]
+  * Design prompt - Desig a responsive website that allows users to book an internal trip to an international destination.
 * [Health Clinic App Case Study]
   * Design prompt - Design a responsive website for a small clinic business that allows them to track their business online (from patient records, inventory, scheduling etc..)
 * [Birth Certificate Translation App Case Study](https://docs.google.com/presentation/d/1kfoEndjU3u0gQ0TQVGvcj_E6ePq-Ab2tD8ICUJt4Lok/edit?usp=sharing)
   * Design prompt - Design an app and a responsive website that allows users to fill birth certificate and print a copy.
-* [Travel and Tour Agency App Case Study]
 * [Vehicle Fleets Tracking](https://docs.google.com/presentation/d/15Z4t3sXa_jjBE9ylah8sTdToInDQFh7iFST9DZg-9KE/edit?usp=sharing)
   * Design prompt - Design a responsive website that allows users to track vehicle allocations, expenses, milage, history of owners
 * [Find My Representatives App Case Study](https://docs.google.com/presentation/d/1ehYCuXHl5pIdisBr7DwN0e6v6tkqKhf_fsdsHSAxUts/edit?usp=sharing)
