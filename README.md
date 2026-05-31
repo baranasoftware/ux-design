@@ -1,90 +1,86 @@
 ## Design Portfolio
-Contains UX designs for a few application. 
 
-Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in app design and implementation effort.
+Contains UX designs for a few application.
 
-## Case Studies
-* [Staff Directory](https://docs.google.com/presentation/d/1K4TqhtqSdCcz-32t22j-i9l5QcqRjyuex1ykxKkRFFg/edit?usp=sharing)
-  * Design prompt - Design a responsive website that allows workers to lookup co-workers across the organization.
-* [Background Search Case Study](https://docs.google.com/presentation/d/1wAohU6DRIVGPL5LaEEunfqJrS3oBZ0QqPZdL44qd168/edit?usp=sharing)
-  * Design prompt - Design a responsive website that allows users to search for background information and print the result.
-* [Travel and Tour Agency App Case Study]
-  * Design prompt - Desig a responsive website that allows users to book an internal trip to an international destination.
-* [Health Clinic App Case Study]
-  * Design prompt - Design a responsive website for a small clinic business that allows them to track their business online (from patient records, inventory, scheduling etc..)
-* [Birth Certificate Translation App Case Study](https://docs.google.com/presentation/d/1kfoEndjU3u0gQ0TQVGvcj_E6ePq-Ab2tD8ICUJt4Lok/edit?usp=sharing)
-  * Design prompt - Design an app and a responsive website that allows users to fill birth certificate and print a copy.
-* [Vehicle Fleets Tracking](https://docs.google.com/presentation/d/15Z4t3sXa_jjBE9ylah8sTdToInDQFh7iFST9DZg-9KE/edit?usp=sharing)
-  * Design prompt - Design a responsive website that allows users to track vehicle allocations, expenses, milage, history of owners
-* [Find My Representatives App Case Study](https://docs.google.com/presentation/d/1ehYCuXHl5pIdisBr7DwN0e6v6tkqKhf_fsdsHSAxUts/edit?usp=sharing)
-  * Design prompt - Design a responsive website that enable consumers to find who represents them in municipal, state and federal governments.
-* [Produce Sell for Farmers App Case Study]
-  * Design prompt - Design an app and a responsive website that allows farmers to sell their produce directly to vendors.
+Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in app design and implementation
+effort.
 
-## UX Design Approach 
-Following steps describe the approach we take when designing a new user interface from ground up. 
+## Sample UX
+                                           
+### BMI Calculator
+* [Source repository](https://github.com/baranasoftware/bmi-app)
+
+<kbd><img src="assets/bmi-calc1.png" alt="bmi-calc1" width="300"></kbd>
+<kbd><img src="assets/bmi-calc2.png" alt="bmi-calc2" width="300"></kbd>
+<kbd><img src="assets/bmi-calc3.png" alt="bmi-calc3" width="300"></kbd>
+
+
+## UX Design Approach
+
+Following steps describe the approach we take when designing a new user interface from ground up.
 
 * Empathize with users:
-  * It's critical to understand the challenges that the target audience is experiencing.
-  * A good way to do this is to meet with users and understand how users think, feel and pain points they experience.
-  * We accomplish this by talking to them directly in user interviews.
-* Conduct user interviews: 
-  * User interviews can be conducted by meeting them in person and this process can be started by recruiting users.
-  * User interviews can be done through surveys or using a screener as well.
-  * When it's not feasible to conduct users interviews, we will conduct extensive online research to understand the problem and pain points.
-  * When selecting the users we try to select users from a diverse group of users.
+    * It's critical to understand the challenges that the target audience is experiencing.
+    * A good way to do this is to meet with users and understand how users think, feel and pain points they experience.
+    * We accomplish this by talking to them directly in user interviews.
+* Conduct user interviews:
+    * User interviews can be conducted by meeting them in person and this process can be started by recruiting users.
+    * User interviews can be done through surveys or using a screener as well.
+    * When it's not feasible to conduct users interviews, we will conduct extensive online research to understand the
+      problem and pain points.
+    * When selecting the users we try to select users from a diverse group of users.
 * Determine interview goals:
-  * In order to conduct effective user interviews (or online research) it's important to come up with interview goals.
-  * Asking following questions will help us to determine the goals of the interview:
-    * What do we want to learn from the interview ?
-    * Are there certain user problems or pain points that we need to empathize with ?
-    * Are there any characteristics of users we want to interview ? Why ?
-    * How much information should we have to ensure we get a comprehensive and balanced set of data?
-  * Once we identified users to interview, we can start the process with an email to users:
-    ```
-    Hi [Participant Name],
-    
-     We are currently working on a project to provide [the capabilities] where we need to conduct interviews about [project].
-    
-    Your participation in the research study would be very valuable to help us [summary of project goals]. Details of the 
-    study are shared below. 
-    
-    Location: [Address and link to map]
-    Study dates: [Date range]
-    Time: [Time range]
-    Session length: [Estimated length of the time for each interview]
-    
-    If meeting in person will not work for you, let me know I can set up a virtual meeting.
-    
-    With your permission, we will record each interview to help us decide how to improve our product. Recordings only be
-    shared with project team members for the scope of this project. A consent form is attached to this email that you need 
-    sign and send back.
-    
-    If you have any questions, please contact me through email at contact@baranasoftware.com.
-    
-    If you are interested in being interviewed, please let me know when you are available between [date range] and the hours
-    of [time range of study].  
-    
-    Sincerely,
-    ```
+    * In order to conduct effective user interviews (or online research) it's important to come up with interview goals.
+    * Asking following questions will help us to determine the goals of the interview:
+        * What do we want to learn from the interview ?
+        * Are there certain user problems or pain points that we need to empathize with ?
+        * Are there any characteristics of users we want to interview ? Why ?
+        * How much information should we have to ensure we get a comprehensive and balanced set of data?
+    * Once we identified users to interview, we can start the process with an email to users:
+      ```
+      Hi [Participant Name],
+      
+       We are currently working on a project to provide [the capabilities] where we need to conduct interviews about [project].
+      
+      Your participation in the research study would be very valuable to help us [summary of project goals]. Details of the 
+      study are shared below. 
+      
+      Location: [Address and link to map]
+      Study dates: [Date range]
+      Time: [Time range]
+      Session length: [Estimated length of the time for each interview]
+      
+      If meeting in person will not work for you, let me know I can set up a virtual meeting.
+      
+      With your permission, we will record each interview to help us decide how to improve our product. Recordings only be
+      shared with project team members for the scope of this project. A consent form is attached to this email that you need 
+      sign and send back.
+      
+      If you have any questions, please contact me through email at contact@baranasoftware.com.
+      
+      If you are interested in being interviewed, please let me know when you are available between [date range] and the hours
+      of [time range of study].  
+      
+      Sincerely,
+      ```
 * Prepare for the interview:
-  * Identify goals.
-  * Prepare interview questions and script them.
-  * Collect supplies - notebooks, pen, recording devices.
-  * Backup plan - if things doesn't go as planned how to follow up and get our questions answered.
-  * Precise interview questions, how to record them.
+    * Identify goals.
+    * Prepare interview questions and script them.
+    * Collect supplies - notebooks, pen, recording devices.
+    * Backup plan - if things doesn't go as planned how to follow up and get our questions answered.
+    * Precise interview questions, how to record them.
 * During the interview:
-  * Help participants feel comfortable during the interview process.
-  * Ask open-ended questions.
-  * Take notes and document observations during the interview.
-  * Record the interview.
-  * At the end of the interview thanks the participant.
+    * Help participants feel comfortable during the interview process.
+    * Ask open-ended questions.
+    * Take notes and document observations during the interview.
+    * Record the interview.
+    * At the end of the interview thanks the participant.
 * With user interviews are done next step would be to build an empathy map.
-  * Empathy map is an easily-understood chart that explains everything designers have learned about a type of user.
-  * An empathy map is consist of Says, Does, Thinks and Feel.
-  * With empathy map we can identify user pain points. There are 4 types of pain points:
-    * Financial 
-    * Product 
-    * Process
-    * Support
+    * Empathy map is an easily-understood chart that explains everything designers have learned about a type of user.
+    * An empathy map is consist of Says, Does, Thinks and Feel.
+    * With empathy map we can identify user pain points. There are 4 types of pain points:
+        * Financial
+        * Product
+        * Process
+        * Support
 * Next step is to identify personas. Based on the research we can then build personas of who our users are.
