@@ -5,15 +5,16 @@ Contains UX designs for a few application.
 Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in app design and implementation
 effort.
 
-## Sample UX
+## UX Designs
                                            
 ### BMI Calculator
-* [Source repository](https://github.com/baranasoftware/bmi-app)
+* [Source repository](./bmi-app)
 
 <kbd><img src="assets/bmi-calc1.png" alt="bmi-calc1" width="300"></kbd>
 <kbd><img src="assets/bmi-calc2.png" alt="bmi-calc2" width="300"></kbd>
 <kbd><img src="assets/bmi-calc3.png" alt="bmi-calc3" width="300"></kbd>
-
+     
+### Interactive Portfolio
 
 ## UX Design Approach
 
@@ -84,3 +85,4 @@ Following steps describe the approach we take when designing a new user interfac
         * Process
         * Support
 * Next step is to identify personas. Based on the research we can then build personas of who our users are.
+* Then use these personas to build out the UX designs.
